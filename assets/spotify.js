@@ -9,7 +9,6 @@ function search (str){
 	if (!str){
 		return search('the sign');
 	}
-
 	return client.search({type: 'track', query: '"' + str + '"'});
 }
 
