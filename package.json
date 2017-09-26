@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "modules needed",
+  "main": "liribot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungge8/liribot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kungge8/liribot/issues"
+  },
+  "homepage": "https://github.com/kungge8/liribot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.82.0",
+    "request-promise-native": "^1.0.5",
+    "twitter": "^1.7.1"
+  }
+}
