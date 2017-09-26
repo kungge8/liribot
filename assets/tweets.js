@@ -11,12 +11,9 @@ function getTweets (){
 }
 
 function write(r){
-	let temp = "";
-	console.log(r);
-	function app(n){
-		temp += "\n " + n.text + " " + n.created_at;
-	}
-	r.map(app);
+	let temp = r.reduce(function(acc, n){
+		return acc + "\n " + n.text + " " + n.created_at;
+	}, "");
 	console.log(temp);
 	return temp;
 }

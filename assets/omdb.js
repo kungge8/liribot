@@ -4,7 +4,6 @@ function search (str) {
 	if (!str){
 		return search('Mr.Nobody');
 	}
-
 	return req('http://www.omdbapi.com/?apikey=40e9cece&t=' + str
 	);
 }
