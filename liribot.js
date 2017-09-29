@@ -19,12 +19,12 @@ function random() {
 function writeToLog(call, re){
 	//write the selected function and the output to log.txt
 	fs.appendFile("log.txt", "\n\n" + call + "\n" + re, function(err){
-			if(err){
-				console.log(err);
-			} else {
-				console.log("log updated");
-			}
-		});
+		if(err){
+			console.log(err);
+		} else {
+			console.log("log updated");
+		}
+	});
 }
 
 function decision(str, str2){

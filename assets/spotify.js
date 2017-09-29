@@ -13,13 +13,15 @@ function search (str){
 }
 
 function write(val){
-	let temp = val.tracks.items[0];
-	let str = "\n Artist: " + temp.album.artists[0].name + 
-							"\n Title: " + temp.name + 
-							"\n Album: " + temp.album.name + 
-							"\n Preview: " + temp.external_urls.spotify;
-	console.log(str);
-	return str;
+	console.log(val);
+	let temp = val.tracks.items.reduce(function(acc, n){
+		return acc + "\n\n Artist: " + n.album.artists[0].name + 
+						"\n Title: " + n.name + 
+						"\n Album: " + n.album.name + 
+						"\n Preview: " + n.external_urls.spotify;
+	}, "");
+	console.log(temp);
+	return temp;
 }
 
 module.exports = {

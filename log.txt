@@ -27,3 +27,220 @@ my-tweets
  REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE Fri Sep 22 14:06:07 +0000 2017
  REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE Fri Sep 22 14:06:02 +0000 2017
  REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE Fri Sep 22 14:05:50 +0000 2017
+
+spotify-this-song
+
+ Artist: Ace of Base
+ Title: Young and Proud
+ Album: The Sign (US Album) [Remastered]
+ Preview: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+
+spotify-this-song
+
+ Artist: Keyshia Cole
+ Title: Let It Go
+ Album: Just Like You
+ Preview: https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES
+
+spotify-this-song
+
+ Artist: Keyshia Cole
+ Title: Let It Go
+ Album: Just Like You
+ Preview: https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES
+
+my-tweets
+
+ IM TOO LAZY TO MAKE MORE TWEETS Tue Sep 26 17:09:55 +0000 2017
+ REEEEEEEEEEEEEEEEEEE Fri Sep 22 14:06:22 +0000 2017
+ REEEEEEEEEEEEEEEEEE Fri Sep 22 14:06:17 +0000 2017
+ REEEEEE Fri Sep 22 14:06:12 +0000 2017
+ REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE Fri Sep 22 14:06:07 +0000 2017
+ REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE Fri Sep 22 14:06:02 +0000 2017
+ REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE Fri Sep 22 14:05:50 +0000 2017
+
+spotify-this-song
+
+ Artist: Hailee Steinfeld
+ Title: Let Me Go (with Alesso, Florida Georgia Line & watt)
+ Album: Let Me Go (with Alesso, Florida Georgia Line & watt)
+ Preview: https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p
+ Artist: NF
+ Title: Let You Down
+ Album: Let You Down
+ Preview: https://open.spotify.com/track/3gWu8y0TKCIdy2mpTqVnTl
+ Artist: James Bay
+ Title: Let It Go
+ Album: Chaos And The Calm
+ Preview: https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP
+ Artist: Bryson Tiller
+ Title: Let Me Explain
+ Album: Let Me Explain
+ Preview: https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN
+ Artist: Passenger
+ Title: Let Her Go
+ Album: All the Little Lights
+ Preview: https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I
+ Artist: DJ Snake
+ Title: Let Me Love You
+ Album: Encore
+ Preview: https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU
+ Artist: Mario
+ Title: Let Me Love You
+ Album: Let Me Love You
+ Preview: https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff
+ Artist: Kesha
+ Title: Learn To Let Go
+ Album: Learn To Let Go
+ Preview: https://open.spotify.com/track/3JKhmIlixlYwFLzrkc6drb
+ Artist: The Beatles
+ Title: Let It Be - Remastered
+ Album: Let It Be (Remastered)
+ Preview: https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+ Artist: Cheat Codes
+ Title: Let Me Hold You (Turn Me On)
+ Album: Let Me Hold You (Turn Me On)
+ Preview: https://open.spotify.com/track/72xvRETEsd5hS1RfduciRi
+ Artist: Avril Lavigne
+ Title: Complicated
+ Album: Let Go
+ Preview: https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F
+ Artist: Sinead Harnett
+ Title: If You Let Me
+ Album: If You Let Me
+ Preview: https://open.spotify.com/track/5LKXxwgll43fxe1lPF7sze
+ Artist: Nathan Goshen
+ Title: Thinking About It (Let It Go) - KVR Remix
+ Album: Thinking About It (Let It Go) [KVR Remix]
+ Preview: https://open.spotify.com/track/0yJv0G7r1PZIl1CY5XhvkR
+ Artist: Kesha
+ Title: Learn To Let Go
+ Album: Rainbow
+ Preview: https://open.spotify.com/track/1g1TeDflB6atAy7HKwrzXu
+ Artist: The Rolling Stones
+ Title: Gimme Shelter
+ Album: Let It Bleed
+ Preview: https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD
+ Artist: Playboi Carti
+ Title: Let It Go
+ Album: Playboi Carti
+ Preview: https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6
+ Artist: Avril Lavigne
+ Title: Sk8er Boi
+ Album: Let Go
+ Preview: https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU
+ Artist: Rixton
+ Title: Me And My Broken Heart
+ Album: Let The Road
+ Preview: https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S
+ Artist: Machine Gun Kelly
+ Title: Let You Go
+ Album: bloom
+ Preview: https://open.spotify.com/track/2CAAwb9GbvargmIqQ08fqC
+ Artist: Keyshia Cole
+ Title: Let It Go
+ Album: Just Like You
+ Preview: https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES
+
+spotify-this-song
+
+
+ Artist: Hailee Steinfeld
+ Title: Let Me Go (with Alesso, Florida Georgia Line & watt)
+ Album: Let Me Go (with Alesso, Florida Georgia Line & watt)
+ Preview: https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p
+
+ Artist: NF
+ Title: Let You Down
+ Album: Let You Down
+ Preview: https://open.spotify.com/track/3gWu8y0TKCIdy2mpTqVnTl
+
+ Artist: James Bay
+ Title: Let It Go
+ Album: Chaos And The Calm
+ Preview: https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP
+
+ Artist: Bryson Tiller
+ Title: Let Me Explain
+ Album: Let Me Explain
+ Preview: https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN
+
+ Artist: Passenger
+ Title: Let Her Go
+ Album: All the Little Lights
+ Preview: https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I
+
+ Artist: DJ Snake
+ Title: Let Me Love You
+ Album: Encore
+ Preview: https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU
+
+ Artist: Mario
+ Title: Let Me Love You
+ Album: Let Me Love You
+ Preview: https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff
+
+ Artist: Kesha
+ Title: Learn To Let Go
+ Album: Learn To Let Go
+ Preview: https://open.spotify.com/track/3JKhmIlixlYwFLzrkc6drb
+
+ Artist: The Beatles
+ Title: Let It Be - Remastered
+ Album: Let It Be (Remastered)
+ Preview: https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+
+ Artist: Cheat Codes
+ Title: Let Me Hold You (Turn Me On)
+ Album: Let Me Hold You (Turn Me On)
+ Preview: https://open.spotify.com/track/72xvRETEsd5hS1RfduciRi
+
+ Artist: Avril Lavigne
+ Title: Complicated
+ Album: Let Go
+ Preview: https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F
+
+ Artist: Sinead Harnett
+ Title: If You Let Me
+ Album: If You Let Me
+ Preview: https://open.spotify.com/track/5LKXxwgll43fxe1lPF7sze
+
+ Artist: Nathan Goshen
+ Title: Thinking About It (Let It Go) - KVR Remix
+ Album: Thinking About It (Let It Go) [KVR Remix]
+ Preview: https://open.spotify.com/track/0yJv0G7r1PZIl1CY5XhvkR
+
+ Artist: Kesha
+ Title: Learn To Let Go
+ Album: Rainbow
+ Preview: https://open.spotify.com/track/1g1TeDflB6atAy7HKwrzXu
+
+ Artist: The Rolling Stones
+ Title: Gimme Shelter
+ Album: Let It Bleed
+ Preview: https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD
+
+ Artist: Playboi Carti
+ Title: Let It Go
+ Album: Playboi Carti
+ Preview: https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6
+
+ Artist: Avril Lavigne
+ Title: Sk8er Boi
+ Album: Let Go
+ Preview: https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU
+
+ Artist: Rixton
+ Title: Me And My Broken Heart
+ Album: Let The Road
+ Preview: https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S
+
+ Artist: Machine Gun Kelly
+ Title: Let You Go
+ Album: bloom
+ Preview: https://open.spotify.com/track/2CAAwb9GbvargmIqQ08fqC
+
+ Artist: Keyshia Cole
+ Title: Let It Go
+ Album: Just Like You
+ Preview: https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES
